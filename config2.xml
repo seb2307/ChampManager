@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><competitor>
-	<Name>Sebastian</Name>
-	<Surname>Kupiecki</Surname>
-	<Weight>79</Weight>
-	<Age>26</Age>
+<?xml version="1.0" encoding="UTF-8"?><Championship>
+<competitor>
+	<Name>bn</Name>
+	<Surname>fg</Surname>
+	<Weight>45</Weight>
+	<Age>8</Age>
 </competitor>
 <competitor>
-	<Name>Piotr</Name>
-	<Surname>Graliński</Surname>
-	<Weight>80</Weight>
-	<Age>98</Age>
+	<Name>nm</Name>
+	<Surname>ghj</Surname>
+	<Weight>657</Weight>
+	<Age>45</Age>
 </competitor>
+</Championship>
